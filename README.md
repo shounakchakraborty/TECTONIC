@@ -4,7 +4,9 @@ TECTONIC: TOWARDS EMPLOYING COMPILERS FOR THERMAL MANAGEMENT AND OPTIMAL DATA PL
 Project Details:
 --------------------
 Source of funding: Marie Curie Individual Fellowship Individual Fellowship (MSCA-IF) 
+
 Amount: EUR 214,158.72 (from EU)
+
 Project ID: 898296
 
 Brief Technical Description:
