@@ -1,0 +1,24 @@
+Journals
+--------
+
+  1. S. Saha, S. Chakraborty, S. Agarwal, R. Gangopadhyay, M. Sjalander, and K. D. McDonaldMaier, “DELICIOUS: Deadline-Aware Approximate Computing in Cache-Conscious Multicore”- IEEE Transactions on Parallel and Distributed Systems [TPDS], Vol. 34, Issue 2, February 2023, Pages: 718-733.
+
+  2. S. Saha, S. Chakraborty, X. Zhai, S. Ehsan, and K. D. McDonald-Maier, “ACCURATE: Accuracy Maximization for Real-Time Multi-core systems with Energy Efficient Way-sharing Caches”-IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems [TCAD], Vol. 41, Issue 12, December 2022, Pages: 5246-5260.
+
+  3. Y. Sharma, S. Chakraborty, S. Moulik, “ETA-HP: An Energy and Temperature-Aware Real-time Scheduler for Heterogeneous Platforms”-The Journal of Supercomputing, Springer [SUPE] Vol. 78, Article 8, May 2022. 
+
+  4. S. Chakraborty, S. Saha, M. Sjalander, and K. D. McDonald-Maier, “Prepare: Power-Aware Approximate Real-time Task Scheduling for Energy-Adaptive QoS Maximization”- ACM Transactions on Embedded Computing Systems [TECS], Vol. 20, Issue 5s, Article 62, October 2021, 25 Pages.
+  
+  5. S. Chakraborty, and M. Sjalander, “WaFFLe: Gated Cache-Ways with Per-core Fine-grained DVFS for Reduced On-chip Temperature and Leakage Consumption”, ACM Transactions on Architecture and Code Optimization [TACO], Vol. 18, Issue 4, Article 55, December 2021, 25 pages.
+  
+  
+  Conferences:
+  ------------
+  
+  1. S. Agarwal, S. Chakraborty, and M. Sjalander, “Architecting Selective Refresh based MultiRetention Cache for Heterogeneous System (ARMOUR)”- 60th ACM/IEEE Design Automation Conference (DAC 2023), 2023 (accepted).
+
+  2. S. Chakraborty, V. Soteriou, and M. Sjalander, “STIFF: Thermally Safe Temperature Effect Inversion Aware FinFET based Multi-core”-19th ACM International Conference on Computing Frontiers (CF 2022), 2022.
+
+  3. Y. Sharma, S. Moulik and S. Chakraborty, “RESTORE: Real-Time Task scheduling on a Temperature Aware FinFET based Multicore”-Design, Automation & Test in Europe Conference & Exhibition (DATE 2022), 2022.
+  
+  4. S. Agarwal, and S. Chakraborty, “ABACa: Access Based Allocation on Set Wise MultiRetention in STT-RAM Last Level Cache”-The 32nd IEEE International Conference on Applicationspecific Systems, Architectures and Processors (ASAP 2021), 2021.
