@@ -9,6 +9,8 @@ Amount: EUR 214,158.72 (from EU)
 
 Project ID: 898296
 
+Host Institute: Norwegain University of Science and Technology (NTNU), Trondheim, Norway
+
 Brief Technical Description:
 ----------------------------
   Stagnation in process technology drove architects and researchers towards investigating new emerging non-volatile memory (NVM) technologies for designing on-chip last level caches (LLCs). The promise of better scalability with reduced static leakage makes NVMs potential candidates for replacing conventional
