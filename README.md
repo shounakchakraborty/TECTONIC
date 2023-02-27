@@ -25,3 +25,7 @@ behaviours of NVM-based hybrid caches keep this research area unexplored. Hence,
 TECTONIC includes the creation of such a simulation framework, which will not only help us to accomplish
 the goals of TECTONIC, but will also kick off new research avenues.
 
+Publications:
+-------------
+Publications related to this projects can directly be downloaded from here, however, the final contents of the paper might be different. The simulation data and the fundamental concepts of the paper are same. 
+
